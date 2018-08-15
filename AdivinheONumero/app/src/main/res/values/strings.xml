@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AdivinheONumero</string>
+    <string name="texto1">Digite um número... Você tem 3 tentativas</string>
+    <string name="texto2">Acertou</string>
+    <string name="texto3">Digite um número menor</string>
+    <string name="texto4">Digite um número maior</string>
+    <string name="texto5">Restam %d tentativas !</string>
+    <string name="texto6">Perdeu .. Um novo número será sorteado !</string>
+</resources>
